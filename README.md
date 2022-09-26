@@ -1,2 +1,3 @@
 # nalekcje
-lekcja
+**to jest plik readme**
+>lekcja
